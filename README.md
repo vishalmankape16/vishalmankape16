@@ -2,7 +2,7 @@ Hello World,
 I'm Vishal, Software developer currently living in Sydney, Australia.
 
 Things I code with:
-React Java Docker github actions Google Cloud Platform TypeScript  GraphQL git NestJs angular npm html browser MongoDB Nodejs
+Python Java Docker github actions Google Cloud Platform TypeScript  GraphQL git NestJs angular npm html browser MongoDB Nodejs
 
 - 🔭 I’m currently working on Teeth recognition system
 - 🌱 I’m currently learning Flutter, Go
